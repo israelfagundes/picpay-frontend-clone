@@ -1,6 +1,7 @@
 # :money_with_wings: PicPay Interface Clone :money_with_wings:
- 
+ <br/>
 :suspect: Clone da interface do PicPay com **React Native**, **Styled Components** e **React Navigation v5**.
+ <br/>
 
 ## :camera: Screenshoots
 
